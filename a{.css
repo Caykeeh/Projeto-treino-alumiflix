@@ -1,0 +1,12 @@
+p{
+    display: none;
+    font-family: arial;
+}
+
+input:checked + .menu{
+    color:brown;
+}
+
+input:checked + .menu{
+    display: block;
+}
